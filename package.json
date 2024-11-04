@@ -1,6 +1,7 @@
 {
-  "name": "ngx-msa-lib",
-  "version": "0.0.0",
+  "name": "@ansarishoab/my-lib",
+  "version": "0.0.5",
+  "author": "ansarishoab",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
